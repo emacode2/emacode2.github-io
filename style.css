@@ -1,0 +1,36 @@
+
+header { 
+    background-color: wheat;
+    justify-content: center;
+
+
+
+}
+body {
+    background-color: bisque;
+
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+
+.me {
+    background-color:burlywood;
+    margin: 70px;
+}
+.work {
+    background-color: burlywood;
+    marging: 70px;
+}
+.address {
+    background-color: peru;
+    margin:70px;
+}
+img {
+    width: 20%;
+    height: auto;
+    align-content: center;
+}
